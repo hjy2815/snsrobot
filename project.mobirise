@@ -45,7 +45,7 @@
         "main": true,
         "title": "SNSrobot",
         "meta_descr": "",
-        "header_custom": "<head>\n    <title>에스앤에스로봇</title>\n    <meta property=\"og:url\" content=\"http://snsrobot.co.kr/\">\n    <meta property=\"og:title\" content=\"에스앤에스로봇\">  \n    <meta property=\"og:type\" content=\"website\">\n    <meta property=\"og:image\" content=\"https://i.imgur.com/0dAk5Ud.jpg\">\n    <meta property=\"og:description\" content=\"SNS 24시간 자동 광고/홍보/운영/마케팅\">\n    <meta name=\"description\" content=\"SNS 24시간 자동 광고/홍보/운영/마케팅\">\n    <meta name=\"keywords\" content=\"SNS 24시간 자동 광고/홍보/운영/마케팅\">\n</head>",
+        "header_custom": "<head>\n    <title>에스앤에스로봇</title>\n    <meta property=\"og:url\" content=\"http://snsrobot.co.kr/\">\n    <meta property=\"og:title\" content=\"에스앤에스로봇\">  \n    <meta property=\"og:type\" content=\"website\">\n    <meta property=\"og:image\" content=\"https://i.imgur.com/0dAk5Ud.jpg\">\n    <meta property=\"og:description\" content=\"SNS 24시간 자동 광고/홍보/운영/마케팅\">\n    <meta name=\"description\" content=\"SNS 24시간 자동 광고/홍보/운영/마케팅\">\n    <meta name=\"keywords\" content=\"SNS 24시간 자동 광고/홍보/운영/마케팅\">\n<script src='https://cdn.useproof.com/proof.js?acc=eglRYqbZ9pQY6tXvdQHZuhbS1n23' async></script>\n</head>",
         "footer_custom": "",
         "html_before": ""
       },
